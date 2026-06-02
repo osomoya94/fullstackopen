@@ -1,12 +1,19 @@
-:root {
-  font-family: system-ui, sans-serif;
-  line-height: 1.5;
+.exito {
+  color: green;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
 }
 
-body {
-  margin: 0;
-}
-
-#root {
-  padding: 1rem;
+.error {
+  color: red;
+  background: lightgrey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
 }
